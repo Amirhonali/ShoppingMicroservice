@@ -1,0 +1,15 @@
+/Users/amirhon/Projects/DemoECommerce.SharedLibrarySolution/eCommerce.SharedLibrary/obj/Debug/net7.0/eCommerce.SharedLibrary.csproj.AssemblyReference.cache
+/Users/amirhon/Projects/DemoECommerce.SharedLibrarySolution/eCommerce.SharedLibrary/obj/Debug/net7.0/eCommerce.SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amirhon/Projects/DemoECommerce.SharedLibrarySolution/eCommerce.SharedLibrary/obj/Debug/net7.0/eCommerce.SharedLibrary.AssemblyInfoInputs.cache
+/Users/amirhon/Projects/DemoECommerce.SharedLibrarySolution/eCommerce.SharedLibrary/obj/Debug/net7.0/eCommerce.SharedLibrary.AssemblyInfo.cs
+/Users/amirhon/Projects/DemoECommerce.SharedLibrarySolution/eCommerce.SharedLibrary/obj/Debug/net7.0/eCommerce.SharedLibrary.csproj.CoreCompileInputs.cache
+/Users/amirhon/Projects/DemoECommerce.SharedLibrarySolution/eCommerce.SharedLibrary/bin/Debug/net7.0/eCommerce.SharedLibrary.deps.json
+/Users/amirhon/Projects/DemoECommerce.SharedLibrarySolution/eCommerce.SharedLibrary/bin/Debug/net7.0/eCommerce.SharedLibrary.dll
+/Users/amirhon/Projects/DemoECommerce.SharedLibrarySolution/eCommerce.SharedLibrary/bin/Debug/net7.0/eCommerce.SharedLibrary.pdb
+/Users/amirhon/Projects/DemoECommerce.SharedLibrarySolution/eCommerce.SharedLibrary/bin/Debug/net7.0/ProductApi.Domain.dll
+/Users/amirhon/Projects/DemoECommerce.SharedLibrarySolution/eCommerce.SharedLibrary/bin/Debug/net7.0/ProductApi.Domain.pdb
+/Users/amirhon/Projects/DemoECommerce.SharedLibrarySolution/eCommerce.SharedLibrary/obj/Debug/net7.0/eCommerce.SharedLibrary.dll
+/Users/amirhon/Projects/DemoECommerce.SharedLibrarySolution/eCommerce.SharedLibrary/obj/Debug/net7.0/refint/eCommerce.SharedLibrary.dll
+/Users/amirhon/Projects/DemoECommerce.SharedLibrarySolution/eCommerce.SharedLibrary/obj/Debug/net7.0/eCommerce.SharedLibrary.pdb
+/Users/amirhon/Projects/DemoECommerce.SharedLibrarySolution/eCommerce.SharedLibrary/obj/Debug/net7.0/ref/eCommerce.SharedLibrary.dll
+/Users/amirhon/Projects/DemoECommerce.SharedLibrarySolution/eCommerce.SharedLibrary/obj/Debug/net7.0/eCommerc.DFE3D91F.Up2Date
