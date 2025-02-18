@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\DemoECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\eCommerce.SharedLibrary.csproj" />
+    <ProjectReference Include="..\AuthenticationApi.Domain\AuthenticationApi.Domain.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="DTOs\" />
+    <None Remove="Interface\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DTOs\" />
+    <Folder Include="Interface\" />
+  </ItemGroup>
+</Project>
